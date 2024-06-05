@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717450546 source:/home/david/Escritorio/chary2/examenfinal1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
